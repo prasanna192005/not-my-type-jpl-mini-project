@@ -1,5 +1,4 @@
 ﻿# not-my-type-jpl-mini-project
-Here’s a **README.md** template for your **Typing Speed Challenge** project. You can customize it further to match your preferences.
 
 ---
 
