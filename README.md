@@ -41,14 +41,7 @@ A multiplayer typing speed game where players compete to type a given paragraph 
 
 ---
 
-## **Screenshots**
 
-
----
-
-
-
----
 
 ## **Future Enhancements**
 
